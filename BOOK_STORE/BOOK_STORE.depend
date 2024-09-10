@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1683486095 source:f:\object oriented programming\book_store\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<iomanip>
+	"classdefinitions.h"
+
+1683531449 f:\object oriented programming\book_store\classdefinitions.h
+	<string.h>
+
+1683532007 source:f:\object oriented programming\book_store\mfun.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<chrono>
+	<ctime>
+	<iomanip>
+	<conio.h>
+	"classdefinitions.h"
+
